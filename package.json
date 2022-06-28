@@ -1,0 +1,18 @@
+{
+  "name": "skinn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FLS",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^6.1.1",
+    "file": "^0.2.2",
+    "gulp": "^4.0.2",
+    "include": "^1.1.0"
+  }
+}
